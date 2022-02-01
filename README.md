@@ -17,5 +17,4 @@
     <img aling="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
 
-Cada dia mais apaixonado pelo mundo da programação, estudando bastante para que cada dia mais me tornar um ótimo profissional nesse espetacular mundo da programação!!
 

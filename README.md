@@ -7,7 +7,7 @@
   Olá! Me chamo Alexandre Benjamin dE Campos e sou desenvolvedor Web Back-end junior, me especializo na parte de desenvolvimento e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
  
  - :nerd_face: Atualmente estou graduado Analise e Desenvolvimneto de Sistemas na **SPTech**
- - :desktop_computer: Meus conhecimentos = **C#** | **PYTHON** | **DEVOPS**
+ - :desktop_computer: Meus conhecimentos = **JAVASCRIPT** | **C#** | **PYTHON** | **DEVOPS**
  - :open_book: **Inglês** basico | **Espanhol** básico | **Português** nativo
  - ✉️ Entre em contato: **alexandre.benjaming@gmail.com**
  

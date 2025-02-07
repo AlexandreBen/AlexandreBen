@@ -61,12 +61,12 @@
 <br>
 
 ## Experiência de trabalho
-[<img align="left" height="94px" width="94px" alt="BoxDelivery" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7ECrspq4nFDMvczN4Bun2F-6QdrMVsihFsRKPou79Q&s"/>](https://boxdelivery.com.br/)
+[<img align="left" height="94px" width="94px" alt="McDigital" src="https://www.mcdigital.com.br/wp-content/uploads/2021/12/logo_mc-digital-1024x337.png")
 
-**Fullstack Developer** \
-[**Box Delivery**](https://boxdelivery.com.br/) • Contract ( 11 meses ) \
-Linguagens: `PHP`, `Kotlin`, `Laravel`, `JQuery`, `BootStrap` \
-Tecnologias: `Jira`, `Confluence`, \
+**Developer** \
+[**Mc Digital**](https://www.mcdigital.com.br/) • Contract ( 4 Anos ) \
+Linguagens: `Javascript`, `Html`, `Css`, `JQuery`, `BootStrap` \
+Tecnologias: `onsign`, `Jinja2`, \
 Projetos em destaque: [Logs](), [Backoffice]()
 <br/>
 <br/>

@@ -60,7 +60,7 @@
 <br>
 
 ## Experiência de trabalho
-[<img align="left" height="94px" width="94px" alt="McDigital" src="https://www.mcdigital.com.br/wp-content/uploads/2021/12/logo_mc-digital-1024x337.png")
+[<img align="left" height="94px" width="94px" alt="McDigital" src="chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fapp.mcdigital.com.br%2Fcontent%2F"/>]
 
 **Developer** \
 [**Mc Digital**](https://www.mcdigital.com.br/) • Contract ( 4 Anos ) \

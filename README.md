@@ -1,3 +1,5 @@
+![Título](https://media.licdn.com/dms/image/v2/C5616AQGCKv5TmvQ0MA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645207585414?e=1744243200&v=beta&t=wWhFZif2OeOrwCzW9T-B7Nj7LTs1i9oDZR1sTChfUyE)
+<br></br>
 
 <section align="left">
   Olá! Me chamo Alexandre Benjamin dE Campos e sou desenvolvedor Web Back-end junior, me especializo na parte de desenvolvimento e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
@@ -23,6 +25,7 @@
 ### Programming and Development:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PYTHON](https://img.shields.io/badge/PYTHON-777BB4?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)

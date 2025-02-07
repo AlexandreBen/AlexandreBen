@@ -63,7 +63,6 @@
 <br>
 
 ## Experiência de trabalho
-[<img align="left" height="94px" width="94px" alt="McDigital" src="chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fapp.mcdigital.com.br%2Fcontent%2F"/>]
 
 **Developer** \
 [**Mc Digital**](https://www.mcdigital.com.br/) • Contract ( 4 Anos ) \
@@ -73,12 +72,11 @@ Projetos em destaque: [Logs](), [Backoffice]()
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="BoxDelivery" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7ECrspq4nFDMvczN4Bun2F-6QdrMVsihFsRKPou79Q&s"/>](https://boxdelivery.com.br/)
 
 **Analista de Infraestrutura e suporte** \
-[**Box Delivery**](https://boxdelivery.com.br/) • Contract ( 9 meses ) \
+[**Ik Solutions**](https://www.ik.com.br/) • Contract ( 8 meses ) \
 Princiapais Atividades: 
-Configuração de notebooks, celulares e tablets utilizando easy inventory \
+Configuração de notebooks, celulares e tablets \
 Configuração de infraestrutura de rede no escritorio \
 Configuração de  Dominio e servidor utlizano via active directory \
 <br/>

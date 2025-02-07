@@ -1,8 +1,3 @@
-![Título](https://github.com/lessamatheuss01/lessamatheuss01/assets/111442428/4c53cff9-231a-4967-b376-d86b7f70e421)
-<br></br>
-
-
-
 
 <section align="left">
   Olá! Me chamo Alexandre Benjamin dE Campos e sou desenvolvedor Web Back-end junior, me especializo na parte de desenvolvimento e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
@@ -13,14 +8,14 @@
  - ✉️ Entre em contato: **alexandre.benjaming@gmail.com**
  
  <a href="https://www.linkedin.com/in/alexandrebenjamin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="mailto:matheuslimalessa22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="mailto:alexandre.benjaming@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </section>
 <br>
  <div align="center">
    <a href="https://github.com/AlexandreBen">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lessamatheuss01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessamatheuss01&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreBen&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBen&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ## Skills

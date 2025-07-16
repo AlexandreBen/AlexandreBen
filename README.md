@@ -17,7 +17,7 @@
  <div align="center">
    <a href="https://github.com/AlexandreBen">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreBen&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreBen&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
 </div>
    
 </div>

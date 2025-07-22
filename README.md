@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000ff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola,+seja+bem+vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000ff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola!+seja+bem+vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 
 <section align="left">
-  Olá! Me chamo Alexandre e sou desenvolvedor Front-end, me especializei na parte de desenvolvimento e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
+Me chamo Alexandre e sou desenvolvedor Front-end, me especializei na parte de desenvolvimento e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
  
  - :nerd_face: Atualmente estou graduado Analise e Desenvolvimneto de Sistemas na **SPTech**
  - :desktop_computer: Meus conhecimentos = **JAVASCRIPT** | **C#** | **PYTHON** | **DEVOPS**

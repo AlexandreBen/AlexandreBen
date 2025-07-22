@@ -52,6 +52,7 @@ Me chamo Alexandre e sou desenvolvedor Front-end, me especializei na parte de de
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jinja2](https://img.shields.io/badge/jinja2-%2338B2AC.svg?style=for-the-badge&logo=jinja2&logoColor=white)
 ### Design Tools:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%230A0FFF.svg?style=for-the-badge&logo=Photoshop&logoColor=white)

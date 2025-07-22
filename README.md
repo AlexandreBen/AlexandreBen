@@ -1,6 +1,3 @@
-![Título](https://media.licdn.com/dms/image/v2/C5616AQGCKv5TmvQ0MA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645207585414?e=1744243200&v=beta&t=wWhFZif2OeOrwCzW9T-B7Nj7LTs1i9oDZR1sTChfUyE)
-<br></br>
-
 <section align="left">
   Olá! Me chamo Alexandre e sou desenvolvedor Front-end, me especializei na parte de desenvolvimento e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
  

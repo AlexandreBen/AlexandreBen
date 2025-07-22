@@ -16,12 +16,15 @@ Me chamo Alexandre e sou desenvolvedor Front-end, me especializei na parte de de
  - ✉️ Entre em contato: **alexandre.benjaming@gmail.com**
  
  <a href="https://www.linkedin.com/in/alexandrebenjamin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
  
 </section>
 <br>
  <div align="center">
    <a href="https://github.com/AlexandreBen">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreBen&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreBen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&count_private=true&theme=dracula&hide_border=false"  alt="languages graph"  />
+ 
      
 </div>
    
